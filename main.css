@@ -1,0 +1,78 @@
+body{
+	background-color: #ffff66;
+}
+
+#wrap{  
+	padding-top:80px;
+	margin: 0 auto;
+	text-align: center;
+}
+h1{
+	font-family: 'Lobster', cursive;
+	width: 100%;
+	font-size: 6em;
+	color:#ff3300;
+	text-shadow: -1px -1px 2px rgba(150, 150, 150, 1); 
+    border-bottom: 7px solid #fff;
+}
+.msg{
+	color: #333333;
+	font-family: 'Exo 2', sans-serif;
+	width: 60%;
+	margin: 0 auto; 
+}
+#txt{ 
+	font-size: 1.5em;
+	color:#ff704d;
+	font-family: 'Lobster', cursive;
+}
+#prevOrder{
+	padding-left: 15%;
+	font-family: 'Exo 2', sans-serif;
+	color:#ff3300;
+}
+nav{
+	text-align: center;
+	width: 100%;
+	border-bottom: 2px solid #33cc33;
+
+} 
+li{
+	list-style: none;
+	display: inline-block;
+}
+a{
+	text-decoration: none;
+	padding: 10px;
+	color:#33cc33;
+	font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+	color:#ff6600;
+}
+input{
+	border: 2px solid #fff;
+	border-radius:10px;
+}
+
+select{
+	font-family: 'Exo 2', sans-serif;   
+}
+
+form{
+	font-family: 'Exo 2', sans-serif;
+	padding-left: 15%;
+	width: 30%;
+	float:left;
+	margin-top: 40px;
+}
+#pizza{
+	width:45%;
+	margin-top: 40px;
+	border-radius: 10%;
+}
+table{
+	font-family: 'Exo 2', sans-serif;
+	margin-left: 15%;
+	margin-top: 30px; 
+}
